@@ -1,0 +1,1438 @@
+{
+    "GameObjects": [
+        {
+            "name": "City_building_004",
+            "UUID": 2082072522,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 932908834,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        -41.475891,
+                        0,
+                        1,
+                        0,
+                        21.014099,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 264535051,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/4224705013.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 610110004,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_001",
+            "UUID": 1434797906,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 2945162175,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        17.707165,
+                        0,
+                        1,
+                        0,
+                        20.053276,
+                        0,
+                        0,
+                        1,
+                        0.000000,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 384323842,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/3766287768.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 854571537,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_007",
+            "UUID": 2851847542,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 882987606,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        16.010492,
+                        0,
+                        1,
+                        0,
+                        37.493286,
+                        0,
+                        0,
+                        1,
+                        -0.000002,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 1759391208,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/2198417230.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 3038381364,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_008",
+            "UUID": 2162051361,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 1610537786,
+                    "active": true,
+                    "matrix": [
+                        0.000000,
+                        -1.000000,
+                        0,
+                        40.979996,
+                        1.000000,
+                        0.000000,
+                        0,
+                        18.270824,
+                        0,
+                        0,
+                        1,
+                        -0.000002,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 3558526432,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/2819614871.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 2268280123,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "Line002",
+            "UUID": 888186167,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 313813303,
+                    "active": true,
+                    "matrix": [
+                        0.000000,
+                        1.000000,
+                        0,
+                        -2.159772,
+                        -1.000000,
+                        0.000000,
+                        0,
+                        1.853838,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 2845848019,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/1256253789.msh"
+                }
+            ]
+        },
+        {
+            "name": "Plane001",
+            "UUID": 4112205379,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3393081983,
+                    "active": true,
+                    "matrix": [
+                        0.996635,
+                        0,
+                        0,
+                        -0.028603,
+                        0,
+                        0.970616,
+                        0,
+                        0.026032,
+                        0,
+                        0,
+                        0.996635,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 3510452421,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/4058840575.msh"
+                }
+            ]
+        },
+        {
+            "name": "City_building_010",
+            "UUID": 3499566975,
+            "parent": 1378475791,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 1594039105,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 450787470,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/1711771874.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 97194117,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_010",
+            "UUID": 2543173165,
+            "parent": 1378475791,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 762705182,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 2671961350,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/1880975748.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 2959257652,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_011",
+            "UUID": 2959381329,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 2150936390,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        30.134541,
+                        0,
+                        1,
+                        0,
+                        37.493286,
+                        0,
+                        0,
+                        1,
+                        -0.000002,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 3785155283,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/804901260.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 1401685302,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_013",
+            "UUID": 2707511123,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3736734958,
+                    "active": true,
+                    "matrix": [
+                        0.000000,
+                        -1.000000,
+                        0,
+                        -42.288055,
+                        1.000000,
+                        0.000000,
+                        0,
+                        33.201576,
+                        0,
+                        0,
+                        1,
+                        0.000001,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 933401843,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/1997300338.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 1047744979,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_014",
+            "UUID": 4154733944,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3414317164,
+                    "active": true,
+                    "matrix": [
+                        -1,
+                        0.000000,
+                        0,
+                        -19.439707,
+                        -0.000000,
+                        -1,
+                        0,
+                        32.061729,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 486765111,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/1223582246.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 3881775166,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_016",
+            "UUID": 2126722957,
+            "parent": 586014711,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 245117891,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 4091694989,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/2587131697.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 1683955568,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_016",
+            "UUID": 22587735,
+            "parent": 586014711,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3111692059,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 993809825,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/206909785.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 1907689910,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_017",
+            "UUID": 1220324089,
+            "parent": 2190995991,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 2515020054,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 1745452518,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/335504190.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 541559824,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_017",
+            "UUID": 90547104,
+            "parent": 2190995991,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3706901166,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 2606408450,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/3893237930.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 4065955380,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_022",
+            "UUID": 3792535158,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 1246545251,
+                    "active": true,
+                    "matrix": [
+                        -1,
+                        -0.000000,
+                        0,
+                        -20.831324,
+                        0.000000,
+                        -1,
+                        0,
+                        -27.426489,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 3510503603,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/4140408736.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 1221780459,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_023",
+            "UUID": 4052661567,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3621394399,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        42.130642,
+                        0,
+                        1,
+                        0,
+                        37.493286,
+                        0,
+                        0,
+                        1,
+                        -0.000002,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 914268499,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/184268536.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 2466045863,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_024",
+            "UUID": 2503041022,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 4124377643,
+                    "active": true,
+                    "matrix": [
+                        -1,
+                        -0.000000,
+                        0,
+                        -20.572771,
+                        0.000000,
+                        -1,
+                        0,
+                        43.060829,
+                        0,
+                        0,
+                        1,
+                        -0.069194,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 2853301253,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/2461533345.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 3806354502,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_026",
+            "UUID": 90625496,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3354521083,
+                    "active": true,
+                    "matrix": [
+                        -1,
+                        -0.000000,
+                        0,
+                        31.511889,
+                        0.000000,
+                        -1,
+                        0,
+                        -16.446016,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 3766260206,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/1252696761.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 362612123,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_028",
+            "UUID": 672744086,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3877781086,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        13.387990,
+                        0,
+                        1,
+                        0,
+                        -33.755039,
+                        0,
+                        0,
+                        1,
+                        -0.000001,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 3982903841,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/3659416305.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 720231737,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "Object010",
+            "UUID": 2720393770,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 1098477679,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        -2.503353,
+                        0,
+                        1,
+                        0,
+                        15.800846,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 4217994184,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/4216832564.msh"
+                }
+            ]
+        },
+        {
+            "name": "City_building_030",
+            "UUID": 116297464,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 358320258,
+                    "active": true,
+                    "matrix": [
+                        0.000000,
+                        1.000000,
+                        0,
+                        -42.807240,
+                        -1.000000,
+                        0.000000,
+                        0,
+                        -41.835564,
+                        0,
+                        0,
+                        1,
+                        -0.000001,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 1600506098,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/905251862.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 1166761300,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_031",
+            "UUID": 3442697235,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3161694092,
+                    "active": true,
+                    "matrix": [
+                        0.000000,
+                        1.000000,
+                        0,
+                        -34.679482,
+                        -1.000000,
+                        0.000000,
+                        0,
+                        -41.835564,
+                        0,
+                        0,
+                        1,
+                        -0.000001,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 2419868129,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/2994634191.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 2072041698,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_032",
+            "UUID": 3984426876,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 4044413783,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        -29.478403,
+                        0,
+                        1,
+                        0,
+                        21.014099,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 869477251,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/273109866.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 615612945,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_033",
+            "UUID": 328293375,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 267606606,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        -32.361496,
+                        0,
+                        1,
+                        0,
+                        42.370422,
+                        0,
+                        0,
+                        1,
+                        0.000001,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 95731328,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/2524466382.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 2056982875,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_034",
+            "UUID": 1474627954,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 2065578451,
+                    "active": true,
+                    "matrix": [
+                        -0.000000,
+                        1.000000,
+                        0,
+                        16.049517,
+                        -1.000000,
+                        -0.000000,
+                        0,
+                        -16.696884,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 347107332,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/782801851.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 740505783,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_035",
+            "UUID": 3088740854,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 1865740436,
+                    "active": true,
+                    "matrix": [
+                        1,
+                        0,
+                        0,
+                        13.387990,
+                        0,
+                        1,
+                        0,
+                        -40.802517,
+                        0,
+                        0,
+                        1,
+                        -0.000001,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 155793271,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/3792011139.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 1004036265,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_036",
+            "UUID": 1967831466,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3670044038,
+                    "active": true,
+                    "matrix": [
+                        0.000000,
+                        1.000000,
+                        0,
+                        -31.216331,
+                        -1.000000,
+                        0.000000,
+                        0,
+                        33.201576,
+                        0,
+                        0,
+                        1,
+                        0.000001,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 3512510129,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/817561896.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 1227231826,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_037",
+            "UUID": 338361136,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3442782620,
+                    "active": true,
+                    "matrix": [
+                        -1,
+                        -0.000000,
+                        0,
+                        -20.317694,
+                        0.000000,
+                        -1,
+                        0,
+                        -16.163609,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 3180289509,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/2211847432.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 356784866,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_038",
+            "UUID": 3446181528,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 2129513170,
+                    "active": true,
+                    "matrix": [
+                        -0.000000,
+                        1.000000,
+                        0,
+                        -41.649002,
+                        -1.000000,
+                        -0.000000,
+                        0,
+                        -16.495394,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 3297345961,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/1999833014.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 998066244,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_039",
+            "UUID": 1634697190,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 1815818146,
+                    "active": true,
+                    "matrix": [
+                        0.000000,
+                        1.000000,
+                        0,
+                        -42.807240,
+                        -1.000000,
+                        0.000000,
+                        0,
+                        -30.643888,
+                        0,
+                        0,
+                        1,
+                        -0.000001,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 459288862,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/1027195924.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 2920272494,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_040",
+            "UUID": 2454642818,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 1050622229,
+                    "active": true,
+                    "matrix": [
+                        0.000000,
+                        1.000000,
+                        0,
+                        -34.679482,
+                        -1.000000,
+                        0.000000,
+                        0,
+                        -30.643888,
+                        0,
+                        0,
+                        1,
+                        -0.000001,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 1421247779,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/2997054773.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 1517072114,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "City_building_041",
+            "UUID": 3918139705,
+            "parent": 0,
+            "active": true,
+            "static": false,
+            "components": [
+                {
+                    "type": 0,
+                    "UUID": 3950175832,
+                    "active": true,
+                    "matrix": [
+                        0.000000,
+                        -1.000000,
+                        0,
+                        30.695278,
+                        1.000000,
+                        0.000000,
+                        0,
+                        21.612646,
+                        0,
+                        0,
+                        1,
+                        0.000000,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "type": 1,
+                    "UUID": 2282640095,
+                    "active": true,
+                    "path": "\/Library\/3265092789\/3718425443\/4112819931\/3484094057.msh"
+                },
+                {
+                    "type": 2,
+                    "UUID": 4191256799,
+                    "active": true,
+                    "path": ""
+                }
+            ]
+        }
+    ]
+} 
